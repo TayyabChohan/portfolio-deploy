@@ -1,0 +1,228 @@
+{
+  "name": "Tayyab Chohan",
+  "title": "Software Engineer (MERN Stack)",
+  "location": "London, UK",
+  "profileImage": "assets/images/profile.jpg",
+  "summary": "Experienced Software Engineer with 6+ years of expertise in building scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js) . I also have expertise in front-end frameworks like React JS, Material UI, and Semantic UI, Tailwind CSS as well as back-end technologies including Node.js, Express.js, and Oracle 12g.",
+  "aboutMe": "Experienced Software Engineer with 6+ years of expertise in building scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js) . I also have expertise in front-end frameworks like React JS, Material UI, and Semantic UI, Tailwind CSS as well as back-end technologies including Node.js, Express.js, and Oracle 12g. Moreover, I'm proficient in JavaScript, MongoDB, Oracle 12g and fluent with Microsoft Visual Studio Code, GitHub, Bitbucket, ClickUp, Trello, Monday and various other similar tech tools to speed up the effective development process.",
+  "footerSummary": "Software Engineer with 6+ yrs in MERN Stack. Expert in React, Node.js, and building scalable web applications.",
+  "skills": {
+    "languagesFrameworks": [
+      { "name": "Node.js", "icon": "fab fa-node-js" },
+      { "name": "Express.js", "icon": "fas fa-server" },
+      { "name": "React.js", "icon": "fab fa-react" },
+      { "name": "Next.js", "icon": "fas fa-bolt" },
+      { "name": "JavaScript", "icon": "fab fa-js" },
+      { "name": "ECMAScript (ES6+)", "icon": "fab fa-js-square" },
+      { "name": "jQuery", "icon": "fas fa-code" },
+      { "name": "HTML5", "icon": "fab fa-html5" },
+      { "name": "CSS3", "icon": "fab fa-css3-alt" },
+      { "name": "Tailwind CSS", "icon": "fas fa-wind" },
+      { "name": "Material UI", "icon": "fas fa-layer-group" },
+      { "name": "Semantic UI", "icon": "fas fa-palette" },
+      { "name": "Bootstrap", "icon": "fab fa-bootstrap" },
+      { "name": "Sass", "icon": "fab fa-sass" },
+      { "name": "HAML", "icon": "fas fa-code" },
+      { "name": "Redux", "icon": "fas fa-project-diagram" },
+      { "name": "Context API", "icon": "fas fa-share-alt" },
+      { "name": "GraphQL", "icon": "fas fa-project-diagram" },
+      { "name": "RESTful APIs", "icon": "fas fa-plug" }
+    ],
+    "databases": [
+      { "name": "MongoDB", "icon": "fas fa-database" },
+      { "name": "MySQL", "icon": "fas fa-database" },
+      { "name": "Oracle 12g", "icon": "fas fa-database" }
+    ],
+    "tools": [
+      { "name": "Docker", "icon": "fab fa-docker" },
+      { "name": "Nginx", "icon": "fas fa-server" },
+      { "name": "Webpack", "icon": "fas fa-box" },
+      { "name": "Babel", "icon": "fas fa-braille" },
+      { "name": "Git", "icon": "fab fa-git-alt" },
+      { "name": "GitHub", "icon": "fab fa-github" },
+      { "name": "GitLab", "icon": "fab fa-gitlab" },
+      { "name": "Bitbucket", "icon": "fab fa-bitbucket" },
+      { "name": "Jira", "icon": "fab fa-jira" },
+      { "name": "Asana", "icon": "fas fa-tasks" },
+      { "name": "ClickUp", "icon": "fas fa-check-circle" },
+      { "name": "Trello", "icon": "fab fa-trello" },
+      { "name": "Basecamp", "icon": "fas fa-campground" },
+      { "name": "Slack", "icon": "fab fa-slack" },
+      { "name": "Zoom", "icon": "fas fa-video" },
+      { "name": "Figma", "icon": "fab fa-figma" }
+    ],
+    "methodologies": [
+      { "name": "Full-Stack Development", "icon": "fas fa-layer-group" },
+      { "name": "Responsive Design", "icon": "fas fa-mobile-alt" },
+      { "name": "Version Control", "icon": "fas fa-code-branch" }
+    ]
+  },
+  "experience": [
+    {
+      "company": "DELIVETREE",
+      "location": "London, UK",
+      "title": "MERN Stack Developer",
+      "period": "2024 - Present",
+      "logo": "assets/images/DeliveTree.png",
+      "website": "https://delivetree.com/",
+      "display": true,
+      "highlights": [
+        "Build high-performance, scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js).",
+        "Design and implement responsive and user-friendly interfaces using React.js, Material UI, Tailwind CSS, and Semantic UI.",
+        "Optimize backend systems with Node.js and Express.js to ensure efficient data processing and performance.",
+        "Manage and integrate data solutions using MongoDB, MySQL, and Oracle 12g.",
+        "Integrate third-party APIs, payment gateways (Stripe, JazzCash), and external services.",
+        "Use Docker and Nginx for deploying applications to ensure a seamless production environment."
+      ]
+    },
+    {
+      "company": "Diginatives",
+      "location": "Pakistan",
+      "title": "MERN Stack Engineer",
+      "period": "2022-2024",
+      "logo": "/assets/images/Diginatives12.PNG",
+      "website": "https://diginatives.io/",
+      "display": true,
+      "highlights": [
+        "Developed high-performance web applications using the MERN stack.",
+        "Designed sleek, responsive UIs with React.js and various front-end frameworks.",
+        "Collaborated with UI/UX designers to translate mockups and wireframes into functional web interfaces.",
+        "Implemented user authentication and authorization systems with JWT tokens and session management."
+      ]
+    },
+    {
+      "company": "Viral Square",
+      "location": "Pakistan",
+      "title": "Software Engineer (React.js)",
+      "period": "2019-2021",
+      "logo": "assets/images/viralSquare.PNG",
+      "website": "https://www.viralsquare.org/",
+      "display": true,
+      "highlights": [
+        "Developed and maintained user-facing features for an eCommerce-based ERP system using React.js.",
+        "Migrated legacy PHP applications to modern React.js architecture.",
+        "Integrated front-end applications with RESTful APIs in collaboration with back-end teams.",
+        "Worked with Oracle Database 12c to support application data requirements."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "DELIVETREE",
+      "url": "https://delivetree.com/",
+      "description": "A community-focused platform to promote tree plantation and environmental sustainability. Features include user/admin roles, tree registration, and Google Maps integration.",
+      "thumbnail": "assets/images/delivetreeFeatured.png",
+      "technologies": [
+        "Node.js",
+        "MongoDB",
+        "Google Maps API",
+        "Stripe",
+        "JazzCash",
+        "HTML",
+        "CSS",
+        "Tailwind CSS",
+        "React.js"
+      ]
+    },
+    {
+      "name": "Cryptocurrency Marketplace",
+      "url": "https://aconomy.com/",
+      "description": "A cryptocurrency trading and investment platform for buying, selling, and managing digital assets in Estonia.",
+      "thumbnail": "assets/images/aconomy_logo.webp",
+      "technologies": [
+        "React.js",
+        "MongoDB",
+        "Node.js",
+        "Tailwind CSS",
+        "ECMAScript",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "BlackCard Reborn Profit or Penalty",
+      "url": "https://blackcardcoin.com/",
+      "description": "BlackCardCoin appears to be a site linked to a cryptocurrency project.",
+      "thumbnail": "assets/images/blackCardCoin1.PNG",
+      "technologies": [
+        "React.js",
+        "MongoDB",
+        "Node.js",
+        "Tailwind CSS",
+        "Bootstrap",
+        "CSS",
+        "HTML",
+        "MySQL",
+        "ECMAScript",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Ecologix",
+      "url": "https://www.ecologix.com/",
+      "description": "UK-based web application for hosting online webinars with automated email notifications and live support chatbot.",
+      "thumbnail": "assets/images/Ecologix.PNG",
+      "technologies": [
+        "React.js",
+        "Bootstrap",
+        "CSS",
+        "HTML",
+        "Node.js",
+        "MySQL",
+        "ECMAScript",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "CreativeU",
+      "url": "https://creativeu.live/",
+      "description": "A USA-based platform connecting artists and performers with potential clients for event bookings and networking.",
+      "thumbnail": "assets/images/creative.jpg",
+      "technologies": [
+        "React.js",
+        "Node.js",
+        "Authorize.net",
+        "HTML",
+        "CSS",
+        "Oracle",
+        "ECMAScript",
+        "JavaScript"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Science in Software Engineering",
+    "institution": "COMSATS University Islamabad",
+    "period": "2013-2018"
+  },
+  "additionalEducation": {
+    "degree": "MS Management and Information Technology",
+    "institution": "University of Hertfordshire",
+    "period": "2024-2025"
+  },
+  "certifications": [
+    {
+      "name": "Tailwind CSS Essential Training",
+      "issuer": "LinkedIn",
+      "date": "January, 2026",
+      "url": "https://media.licdn.com/dms/image/v2/D4E22AQGjTvJUcRrRJg/feedshare-shrink_1280/B4EZvl1ct3IIAk-/0/1769087552868?e=1772064000&v=beta&t=AJdLoD0jvo99TSOYSlznS1jdz102RcUKdUQk-QTVvik",
+      "icon": "fas fa-laptop-code"
+    },
+    {
+      "name": "React: Using TypeScript",
+      "issuer": "LinkedIn | Emmanuel Henri",
+      "date": "Aug 10, 2025",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQEFOtiO8n8Lsw/feedshare-shrink_1280/B4DZiTIJ8hGQAk-/0/1754815045680?e=1772064000&v=beta&t=bkxnYHB66R4OzJTEQzmjHx_d5N3pV8yvoSGFaRAiCjw",
+      "icon": "fas fa-laptop-code"
+    }
+  ],
+  "languages": [{ "language": "English", "level": "Professional" }],
+  "cvDownloads": {
+    "pdf": "assets/cv/Tayyab_Chohan_Cv.pdf"
+  },
+  "contact": {
+    "message": "Known for a results-driven approach and the ability to turn complex challenges into impactful solutions.",
+    "phone": "+44 07 5002 79248",   
+    "email": "Tayyabchohan7@gmail.com",
+    "linkedInUrl": "https://www.linkedin.com/in/tayyab-chohan7/"
+  }
+}
